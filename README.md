@@ -1,6 +1,9 @@
 # To_Oversample_or_Undersample
 An analysis of sampling techniques and their effect on the prediction quality of classification modelling.
 
+![To oversample or undersample](https://media.licdn.com/dms/image/D4D12AQGBgwQGDLkcow/article_cover_image-shrink_720_1280/0/1690893813702?e=1707350400&v=beta&t=cDfqhcgGzwZCiRcxV6Ou31xBlkCt-IE3qEx1Byivjvw)
+
+
 Introduction
 This repository contains the code and results for an analysis of sampling techniques and their effect on the prediction quality of classification modeling. The analysis compares the performance of different sampling techniques (over-sampling, under-sampling, and a combination of both) on a dataset of employee data. The goal is to identify the best sampling technique for predicting employee attrition.
 
