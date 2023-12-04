@@ -1,4 +1,5 @@
-# To_Oversample_or_Undersample
+# To Oversample or Undersample
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 An analysis of sampling techniques and their effect on the prediction quality of classification modelling.
 
 <img src="https://github.com/ssopic/To_Oversample_or_Undersample/blob/main/cover%20image.png">
