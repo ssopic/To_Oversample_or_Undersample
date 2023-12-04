@@ -5,7 +5,7 @@ An analysis of sampling techniques and their effect on the prediction quality of
 <img src="https://github.com/ssopic/To_Oversample_or_Undersample/blob/main/cover%20image.png">
 
 
-Introduction
+## Introduction
 This repository contains the code and results for an analysis of sampling techniques and their effect on the prediction quality of classification modeling. The analysis compares the performance of different sampling techniques (over-sampling, under-sampling, and a combination of both) on a dataset of employee data. The goal is to identify the best sampling technique for predicting employee attrition.
 
 Data
